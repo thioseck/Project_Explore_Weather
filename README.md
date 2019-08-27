@@ -2,7 +2,7 @@
 
 # Project- Explore Weather Trends 
 
-# THIORO FALL
+# Thioro Fall
 
 # GOAL
  The Goal of the project was to create a visualization and prepare a write up describing the similarities and differences 
