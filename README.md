@@ -1,12 +1,12 @@
-Data Analyst Nanodegree 
+# Data Analyst Nanodegree 
 
-Project- Explore Weather Trends 
+# Project- Explore Weather Trends 
 
 THIORO FALL
 
 # GOAL
-    The Goal of the project was to create a visualization and prepare a write up describing the similarities and differences 
-    between global temperature trends and temperature trends in the closest big city to where we live.
+ The Goal of the project was to create a visualization and prepare a write up describing the similarities and differences 
+ between global temperature trends and temperature trends in the closest big city to where we live.
 
 # INSTRUCTIONS
 + Extract the data from the database.
@@ -25,6 +25,6 @@ THIORO FALL
 
 # TOOLS USED 
  
-    1. SQL: to extract the data from the database
-    2. Python: to calculate the moving average and plotting line chart 
-    3. Anaconda- Jupiter Note book: to write python code and make observations 
+  1. SQL: to extract the data from the database
+  2. Python: to calculate the moving average and plotting line chart 
+  3. Anaconda- Jupiter Note book: to write python code and make observations 
