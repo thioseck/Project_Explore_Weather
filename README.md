@@ -1,7 +1,8 @@
 Data Analyst Nanodegree 
 
-Project1- Explore Weather Trends 
+Project- Explore Weather Trends 
 
+THIORO FALL
 
 # GOAL
     The Goal of the project was to create a visualization and prepare a write up describing the similarities and differences 
@@ -15,8 +16,7 @@ Project1- Explore Weather Trends
 + Open up the CSV in Excel.
 + Create a line chart that compares your city’s temperatures with the global temperatures.
 + Make sure to plot the moving average rather than the yearly averages in order to smooth out the lines, making trends more observable.
-+ Make observations about the similarities and differences between the world averages and your city’s averages, as well as   
-  overall trends.
++ Make observations about the similarities and differences between the world averages and your city’s averages temprature.
 + Answer questions such as:
  + Is your city hotter or cooler on average compared to the global average? Has the difference been consistent over time?
  + How do the changes in your city’s temperatures over time compare to the changes in the global average?
