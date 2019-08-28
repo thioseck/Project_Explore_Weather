@@ -2,8 +2,6 @@
 
 # Project- Explore Weather Trends 
 
-# Thioro Fall
-
 # GOAL
  The Goal of the project was to create a visualization and prepare a write up describing the similarities and differences 
  between global temperature trends and temperature trends in the closest big city to where we live.
