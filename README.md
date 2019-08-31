@@ -21,7 +21,7 @@
  + What does the overall trend look like? Is the world getting hotter or cooler? 
  + Has the trend been consistent over the last few hundred years?
 
-# TOOLS USED 
+# TOOLS 
  
   1. SQL: to extract the data from the database
   2. Python: to calculate the moving average and plotting line chart 
